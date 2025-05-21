@@ -1,0 +1,64 @@
+/*  medium Device Responsive */
+
+
+@media screen and (min-width:576px) and (max-width:992px) {
+    
+      .navbar,
+    .navlinks {
+        max-width: 900px;
+    }
+     .navlinks{
+        margin: 50px 0px;
+     }
+     .features-container{
+       grid-template-columns: 1fr;
+       padding: 0px 30px;
+    }
+    .features-img{
+        margin-bottom: 50px;
+    }
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+/* Small device or MobilePhone Responsive */
+
+
+@media screen and (max-width: 576px) {
+    .navbar,
+    .navlinks {
+        flex-direction: column;
+    }
+      .features-container, .features-img{
+       grid-template-columns: 1fr;
+       padding: 15px;
+    }
+    .features-img{
+        margin-bottom: 50px;
+    }
+
+
+
+
+}
+
+
+
+
+
