@@ -201,9 +201,22 @@
     margin-bottom: 20px;
 }
 
-
-
-
+.Experience-year{
+    padding: 45px;
+    margin-left: -92px;
+    margin-top: -127px;
+    margin-bottom: 137px;
+}
+#Year{
+    font-size: 4rem;
+    font-weight: 700;
+    line-height: 70px;
+}
+#Experience{
+    font-size: 1.56rem;
+    font-weight:500;
+    line-height: 40px;
+}
 
 
 
