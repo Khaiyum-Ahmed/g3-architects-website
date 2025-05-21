@@ -47,7 +47,7 @@
     }
       .features-container, .features-img{
        grid-template-columns: 1fr;
-       padding: 15px;
+       padding: 0px 50px;
     }
     .features-img{
         margin-bottom: 50px;
