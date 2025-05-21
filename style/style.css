@@ -21,6 +21,7 @@
 }
 .bg-color{
     background-color: rgba(255, 144, 14, 0.1);
+    padding-top: 50px;
 }
 .display-flex{
     display: flex;
@@ -285,8 +286,16 @@
 
 /* footer section start */
 
-
-
+.footer-container{
+    background-color: #FFF4E7;
+}
+.footer-content{
+    text-align: center;
+    padding: 40px 410px;
+    font-size: 1.25rem;
+    font-weight: 400;
+    color: #424242;
+}
 
 
 
